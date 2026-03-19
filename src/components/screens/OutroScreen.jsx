@@ -6,9 +6,9 @@ export default function OutroScreen() {
       </div>
       
       <h1 className="text-4xl md:text-5xl font-dancing text-rose-500/85 font-semibold mb-3">
-        You're the best! ✨
+        You're the best!
       </h1>
       <p className="text-rose-400/80">Don't ever forget it</p>
     </div>
   );
-}
+};
